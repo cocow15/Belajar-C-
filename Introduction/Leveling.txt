@@ -1,0 +1,109 @@
+C#
+Basic
+
+
+Developed around 2000 by Microsoft as part of its .NET initiative, C# is a general-purpose, object-oriented programming language designed for Common Language Infrastructure (CLI), and widely recognized for its structured, strong-typing and lexical scoping abilities.
+
+This competency area includes understanding the structure of C# programs, types, and Variables, basic OOP, Properties and Indexers, Collections, Exception handling, among others. 
+
+Key Competencies:
+
+Program Structure - Understand the physical structure of C# programs and the use of namespaces and types.
+Types and Variables - Know the difference between value types and reference.
+Nullable Types - Understand the differences between nullable and non-nullable types.
+Basic OOP - Use classes and objects to write simple object-oriented code. Understand inheritance facilities and use of interfaces to create compositional object-oriented code.
+Properties and Indexers - Using properties and indexers on classes to provide additional safety and expressivity.
+Collections - Knowledge in trade-offs of the various standard library generic collections like List, Set, Dictionary, etc.
+Exception handling - Use of try/catch/finally for managing exceptions.
+
+==================================================================
+C#
+Intermediate
+
+Developed around 2000 by Microsoft as part of its .NET initiative, C# is a general-purpose, object-oriented programming language designed for Common Language Infrastructure (CLI), and widely recognized for its structured, strong-typing and lexical scoping abilities.
+
+This competency area includes understanding the generic system,  using anonymous methods, closures, and lambda syntax, Language Integrated Query (LINQ), resource management, and use of dynamic types, among others.
+
+Key Competencies:
+
+Generics - Understand the generic system and its interactions with inheritance via covariance and contravariance.
+Lambda and Delegates - Use anonymous methods, closures, and lambda syntax to write expressive code.
+Iterators - Understand IEnumerable, yield, and related facilities.
+Language Integrated Query (LINQ) - Use C# syntax to access .Net LINQ capabilities and interacting with IEnumerable collections.
+Resource management - Understanding IDipose and the using construct for explicit resource management.
+Anonymous Types - Use of dynamic type to interact with types whose shape is determined at runtime.
+
+==================================================================
+
+C#
+Advanced
+Developed around 2000 by Microsoft as part of its .NET initiative, C# is a general-purpose, object-oriented programming language designed for Common Language Infrastructure (CLI), and widely recognized for its structured, strong-typing and lexical scoping abilities.
+
+This competency area includes understanding Asynchronous programming, Reflection, Unsafe code, and Expression trees. 
+
+Key Competencies:
+
+Asynchronous and Multi-threading - Use of async/await, locks, ThreadPool, and how to avoid deadlocks.
+Reflection - Use of type introspection to write highly dynamic code.
+Unsafe code - Use Native Interop and pointers for interfacing with unmanaged code.
+Expression trees - Understand how to build and manipulate expression trees to write Domain Specific Language (DSL) that can be used inside applications.
+
+==================================================================
+
+.NET
+Basic
+.NET Core is an open-source cross-platform framework. .NET Core apps can be created using multiple programming languages.
+
+This competency area includes understanding .NET Classes, facilities for Input and Output, transforming data, and implementing simple REST API Services.
+
+Key Competencies:
+
+Type System - Understanding the categories of types supported by .Net. Classes, Structures, Enumerations, Interfaces, and Delegates.
+Input/Output - .Net Facilities for input and output, including reading from files, network and making HTTP requests
+Transforming data - Parsing and formatting data using String/Datetime/JSON/XML libraries
+Collections - Understanding standard library generic data structures like List, Dictionary, Set and applicable use cases
+LINQ (Language Integrated Query) - Using basic LINQ queries to query, summarize and transform data in collections and objects
+Routing - Direct an incoming request based on the URL pattern.
+Memory cache - Knowledge about the default memory cache instance, limits, and others.
+Build a simple REST API Service - Implementing an application to serve REST endpoints.
+
+
+==================================================================
+
+.NET
+Intermediate
+.NET Core is an open-source cross-platform framework. .NET Core apps can be created using multiple programming languages.
+
+This competency area includes configuring data access, exploring .NET Core and Framework, the common language infrastructure, assemblies and developing localized applications.
+
+Key Competencies:
+
+Data Access - Knowledge of database API in .Net, ADO.Net, and Entity Framework.
+Intermediate LINQ - Able to use LINQ to group objects, perform sub-queries and joins and utilize the full declarative power of LINQ.
+.Net ecosystem - Understand the difference between .Net Core and .Net Framework. And how .Net Standard aims to provide a standard set of APIs to program with
+Common Language Infrastructure - Understand Common Language Infrastructure and how it enables multiple languages like C#, F#, and VB to run on top of the same runtime. Includes knowledge of Roslyn compiler API and various runtimes that are .Net compliant.
+Assemblies - Knowledge of assembly file format, metadata facilities, and how code is linked with other modules.
+Globalization and Localization - Understand .Net facilities for developing applications that can be localized into one or more languages.
+
+
+
+==================================================================
+
+.NET
+Advanced
+.NET Core is an open-source cross-platform framework. .NET Core apps can be created using multiple programming languages.
+
+This competency area includes understanding asynchronous and parallel programming, exploring .NET security guidelines, and memory management.
+
+Key Competencies:
+
+Asynchronous Programming - Knowledge of .Net asynchronous programming facilities and Tasks.
+Parallel Programming - .Net Parallel programming using Task Parallel Library and ParallelLINQ.
+Attributes - Understand how attributes work and how they can be used in your code to address cross-cutting concerns.
+Security - Understand .Net guidelines for role-based security, secure coding, and best practices with cryptographic libraries.
+Memory management - Knowledge of automatic memory management, garbage collection, and how to work with unmanaged resources.
+Unsafe code - Proficiency in interacting with native code in DLLs and COM libraries.
+
+
+
+==================================================================

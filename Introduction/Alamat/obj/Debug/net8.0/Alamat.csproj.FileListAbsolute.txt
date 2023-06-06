@@ -1,0 +1,15 @@
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\bin\Debug\net8.0\Alamat.exe
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\bin\Debug\net8.0\Alamat.deps.json
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\bin\Debug\net8.0\Alamat.runtimeconfig.json
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\bin\Debug\net8.0\Alamat.dll
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\bin\Debug\net8.0\Alamat.pdb
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.csproj.AssemblyReference.cache
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.AssemblyInfoInputs.cache
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.AssemblyInfo.cs
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.dll
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\refint\Alamat.dll
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.pdb
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.genruntimeconfig.cache
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\ref\Alamat.dll

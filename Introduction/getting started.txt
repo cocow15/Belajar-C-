@@ -1,0 +1,184 @@
+Learn C#
+C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
+
+C# is used to develop web apps, desktop apps, mobile apps, games and much more.
+
+apa itu C#?
+C# (dibaca see sharp) adalah bahasa pemrograman yang dibuat oleh Microsoft dan ditargetkan berjalan di atas platform .NET (dotnet). 1
+
+Dotnet itu apa?
+
+Dotnet itu semacam mesin virtual yang tugasnya untuk menjalankan program C#, F#, VB.NET dan program lainnya. Selain itu, Dotnet juga menyediakan tools, libary, dan API yang kita butuhkan untuk membuat program C#. Sehingga kadang Dotnet disebut juga Dotnet Framework.
+
+https://www.w3schools.com/cs/index.php
+Download .net 8.0 --> https://dotnet.microsoft.com/en-us/download/visual-studio-sdks
+Download C# Extension di marketplace VsCode
+Edit evironment variabel --> PATH --> C:\Program Files\dotnet
+dotnet new console --> buka folder di VsCode || dotnet new console -o app
+dotnet run
+
+
+Keterangan:
+
+📁 bin adalah folder yang berisi file binary hasil compile.
+📁 obj adalah folder yang berisi file object dan file lainnya yang dibutuhkan saat compile program.
+📁 Properties adalah folder yang berisi resource dan properti yang ditambahkan ke dalam project.
+🛠️ App.Config adalah file XML yang berisi konfigurasi dari project.
+📄 HelloWorld.csproj adalah file yang berisi informasi yang ada di dalam project, versi, konfigrasi, dll.
+📄 HelloWorld.csproj.user sama seperti csproj, namun ini untuk user;
+📜 Program.cs adalah file yang berisi source code program, di sinilah nanti kita akan banyak menulis kode.
+
+In C#, there are different types of variables (defined with different keywords), for example:
+
+int - stores integers (whole numbers), without decimals, such as 123 or -123
+double - stores floating point numbers, with decimals, such as 19.99 or -19.99
+char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+string - stores text, such as "Hello World". String values are surrounded by double quotes
+bool - stores values with two states: true or false
+
+int myNum = 5;               // Integer (whole number)
+double myDoubleNum = 5.99D;  // Floating point number
+char myLetter = 'D';         // Character
+bool myBool = true;          // Boolean
+string myText = "Hello";     // String
+
+int myInt = 10;
+double myDouble = 5.25;
+bool myBool = true;
+
+Console.WriteLine(Convert.ToString(myInt));    // convert int to string
+Console.WriteLine(Convert.ToDouble(myInt));    // convert int to double
+Console.WriteLine(Convert.ToInt32(myDouble));  // convert double to int
+Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
+
+Console.WriteLine("Enter your age:");
+int age = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Your age is: " + age);
+
+Operator	Name	Description	    Example	
++	Addition	Adds together two values	x + y	
+-	Subtraction	Subtracts one value from another	x - y	
+*	Multiplication	Multiplies two values	x * y	
+/	Division	Divides one value by another	x / y	
+%	Modulus	Returns the division remainder	x % y	
+++	Increment	Increases the value of a variable by 1	x++	
+--	Decrement	Decreases the value of a variable by 1	x--
+
+
+txt.Length
+txt.ToUpper()
+txt.ToLower()
+
+string firstName = "John ";
+string lastName = "Doe";
+string name = string.Concat(firstName, lastName);
+Console.WriteLine(name);
+
+string firstName = "John";
+string lastName = "Doe";
+string name = $"My full name is: {firstName} {lastName}";
+Console.WriteLine(name);
+
+// Full name
+string name = "John Doe";
+// Location of the letter D
+int charPos = name.IndexOf("D");
+// Get last name
+string lastName = name.Substring(charPos);
+// Print the result
+Console.WriteLine(lastName);
+
+string txt = "We are the so-called \"Vikings\" from the north.";
+string txt = "It\'s alright.";
+string txt = "The character \\ is called backslash.";
+
+\n	New Line
+\t	Tab	
+\b	Backspace
+
+int time = 22;
+if (time < 10) 
+{
+  Console.WriteLine("Good morning.");
+} 
+else if (time < 20) 
+{
+  Console.WriteLine("Good day.");
+} 
+else 
+{
+  Console.WriteLine("Good evening.");
+}
+// Outputs "Good evening."
+
+int time = 20;
+string result = (time < 18) ? "Good day." : "Good evening.";
+Console.WriteLine(result);
+
+switch(expression) 
+{
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+    break;
+}
+
+int i = 0;
+while (i < 5) 
+{
+  Console.WriteLine(i);
+  i++;
+}
+
+for (int i = 0; i < 5; i++) 
+{
+  Console.WriteLine(i);
+}
+
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+foreach (string i in cars) 
+{
+  Console.WriteLine(i);
+}
+
+// Create an array of four elements without specifying the size 
+string[] cars = new string[] {"Volvo", "BMW", "Ford", "Mazda"};
+
+// Create an array of four elements, omitting the new keyword, and without specifying the size
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+
+// Declare an array
+string[] cars;
+
+// Add values, using new
+cars = new string[] {"Volvo", "BMW", "Ford"};
+
+// Sort an int
+int[] myNumbers = {5, 1, 8, 9};
+Array.Sort(myNumbers);
+foreach (int i in myNumbers)
+{
+  Console.WriteLine(i);
+}
+
+int[,] numbers = { {1, 4, 2}, {3, 6, 8} };
+
+foreach (int i in numbers)
+{
+  Console.WriteLine(i);
+}
+
+int[,] numbers = { {1, 4, 2}, {3, 6, 8} };
+
+for (int i = 0; i < numbers.GetLength(0); i++) 
+{ 
+  for (int j = 0; j < numbers.GetLength(1); j++) 
+  { 
+    Console.WriteLine(numbers[i, j]); 
+  } 
+}  
