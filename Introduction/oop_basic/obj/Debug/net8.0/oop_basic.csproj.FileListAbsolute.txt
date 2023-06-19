@@ -1,0 +1,16 @@
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\bin\Debug\net8.0\oop_basic.exe
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\bin\Debug\net8.0\oop_basic.deps.json
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\bin\Debug\net8.0\oop_basic.runtimeconfig.json
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\bin\Debug\net8.0\oop_basic.dll
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\bin\Debug\net8.0\oop_basic.pdb
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\oop_basic.csproj.AssemblyReference.cache
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\oop_basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\oop_basic.AssemblyInfoInputs.cache
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\oop_basic.AssemblyInfo.cs
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\oop_basic.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\oop_basic.sourcelink.json
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\oop_basic.dll
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\refint\oop_basic.dll
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\oop_basic.pdb
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\oop_basic.genruntimeconfig.cache
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\obj\Debug\net8.0\ref\oop_basic.dll

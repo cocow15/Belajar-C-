@@ -13,3 +13,4 @@ C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\ne
 C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.pdb
 C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.genruntimeconfig.cache
 C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\ref\Alamat.dll
+C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\obj\Debug\net8.0\Alamat.sourcelink.json

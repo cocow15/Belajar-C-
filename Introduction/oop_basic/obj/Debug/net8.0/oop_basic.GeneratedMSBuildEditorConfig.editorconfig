@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Alamat
-build_property.ProjectDir = C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\Alamat\
+build_property.RootNamespace = oop_basic
+build_property.ProjectDir = C:\Users\dimas\Documents\Perkuliahan\Belajar C#\Introduction\oop_basic\
